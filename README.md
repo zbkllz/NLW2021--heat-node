@@ -1,10 +1,12 @@
 # NextLevelWeek Heat 2021 :rocket: (Back-End)
-[Nick´s](https://github.com/nikolaslopes) career leveling challenge accepted :see_no_evil:
+[Nick´s](https://github.com/nikolaslopes) leveling challenge (accepted :see_no_evil:)
+For educational purposes, chilling and coding. 
+
 
 ## About 
- Just chilling and coding. 
+ Impulse Pathway by [Rocketseat](https://www.rocketseat.com.br/)
  
-  First day - BackEnd :card_file_box: built with:
+ 1st day - BackEnd :card_file_box: built with:
  
 - Typescript
 - Express.js
