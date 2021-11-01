@@ -1,3 +1,9 @@
 node_modules
 # Keep environment variables out of version control
 .env
+
+
+# GITHUB_CS=9c6d0f6cf108d2e84e44ceb3c5cda46fe791f694
+# GITHUB_CD=5a2a0a498cdff3888ed3
+
+# JWT_SCRT=d408048d18d8bb696e7f9d9146190ceb
